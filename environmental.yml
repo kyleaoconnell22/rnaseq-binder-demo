@@ -1,4 +1,4 @@
-name: environmental.yml
+name: binder
 channels:
     - conda-forge
     - bioconda
