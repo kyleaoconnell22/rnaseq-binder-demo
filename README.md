@@ -1,7 +1,7 @@
 # rnaseq-binder-demo
 RNA-Seq analysis demonstration using Snakemake and Binder
 
-Launch the BinderHub environment by opening the link in a new browser tab [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/kyleaoconnell22/pangeo-genomics-tutorial/main).
+Launch the BinderHub environment by opening the link in a new browser tab [![Binder](https://binder.pangeo.io/badge_logo.svg)](http://34.85.253.172/v2/gh/MaineINBRE/rnaseq-binder-demo/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FMaineINBRE%2Frnaseq-binder-demo%2Fbinder.ipynb).
 
 Test out the following commands.
 First, set up your directory structure and download files with this command. You can peek at what it is doing by typing `cat scripts/setup.sh`.
